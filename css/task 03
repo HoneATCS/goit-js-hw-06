@@ -1,0 +1,14 @@
+
+.gallery {
+  display: flex;
+  padding-left: 0;
+  gap: 10px;
+  list-style: none;
+  align-items: center;
+background-color: blue;
+}
+.gallery__item{
+    display: flex;
+    background-color: blue;
+    border: 1px solid;
+}
